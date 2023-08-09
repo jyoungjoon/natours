@@ -33,7 +33,11 @@ Please check out installation section on this README before running the applicat
 
 ## Installation
 
-You will have to run this program in your terminal.
+You can simply click on the following link to view its live version: https://jyoungjoon.github.io/natours/
+
+OR
+
+You can run this program in your terminal.
 
 First, to install necessary dependencies, run the following command:
 
